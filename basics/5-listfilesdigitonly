@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -afl
+ls -lna | tr -s | -d -f
