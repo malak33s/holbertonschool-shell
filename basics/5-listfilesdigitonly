@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lna | tr -s | cut -d
+ls -la
