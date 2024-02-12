@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | tr -s |cut -d
+ls -alu
